@@ -138,4 +138,10 @@ docker-compose up --build
 
 ## 👥 Team
 
-Developed for the **Smart India Hackathon (SIH)**.
+Developed for the **Smart India Hackathon (SIH)** by:
+Pranav Madhav PS
+Adithya Baiju
+P. Nisa
+Karthikeyan AV
+Athira AS
+Sandra B
